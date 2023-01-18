@@ -15,6 +15,7 @@ namespace test
         {
             CreateHostBuilder(args).Build().Run();
             //test
+            //issue
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
