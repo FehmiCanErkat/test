@@ -17,6 +17,7 @@ namespace test
         {
             Configuration = configuration;
             //test
+            //kýsý ekleme
         }
 
         public IConfiguration Configuration { get; }
